@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 git practicing
 
+=======
+git practicing
+
+>>>>>>> 0a838859aa83b9501cbcb248399eff661ee947b7
