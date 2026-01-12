@@ -1,1 +1,1 @@
-hello master this is for git new
+hello master conflits resolved
