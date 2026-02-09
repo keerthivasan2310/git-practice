@@ -1,2 +1,2 @@
-this is for testing git commands
+This is testing git commands
 
